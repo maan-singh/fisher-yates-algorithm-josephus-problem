@@ -1,4 +1,4 @@
-## _ Shuffle Songs & Fisher Yates Algorithm _
+## Shuffle Songs & Fisher Yates Algorithm
 
 An aggregation of two separate projects, one that 
 uses an algorithm to shuffle 'songs in a playlist' (Playlist & PlaylistTester) and other project, that uses the Fisher-Yates algorithm to solve the famous Josephus problem (CircularLinkedList, CircularLinkedListTester, Node). 
